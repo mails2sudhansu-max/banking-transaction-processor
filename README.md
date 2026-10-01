@@ -1,6 +1,6 @@
 # Banking Transaction Processor
 
-Coding-kata implementation using **Spring Boot 4.3.4, Java 17 and H2 in-memory DB**.
+Coding-kata implementation using **Spring Boot 3.3.4, Java 17 and H2 in-memory DB**.
 
 ## Requirements covered
 - Unique account IDs and balances
